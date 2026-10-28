@@ -9,5 +9,4 @@ This repository contains SQL queries designed to help data analysts and BI profe
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## About Me
-
-Hi there! I'm **Zainab Abina**. I âm an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Business experience. Scientific curiosity. Data-driven thinking. I'm Zainab, currently building my expertise in data analytics and business intelligence with SQL, Excel, & Power BI
